@@ -1,0 +1,132 @@
+Punctuating dialogue can be a bit tricky at times. If it's not learned right at an early age, it can be tough to rectify - but not impossible. Commas are one of the largest considerations when wondering how to punctuate dialogue. After that, it's important to pay attention to the terminal marks, or the punctuation that closes the dialogue, including periods, questions marks, and exclamation marks. Let's break it all down.
+
+When Is Punctuation Required?
+The first thing to note is that quotation marks are only required in direct dialogue. If you're quoting someone's exact words, get ready to wrap their sentiments in quotation marks.
+
+Direct Dialogue
+Consider these two examples with tags, which refer to the "he said" type indicators of direct speech.
+
+Direct Dialogue (with tag first): He said, "I wake with the morning sun every day."
+
+When a tag comes first, you need to place a comma after "said" and before you open the quotation marks. Also, be sure to place the closing punctuation mark (whether that's a period, question mark, or exclamation mark) within the quotation marks if it is a part of the direct quote.
+
+Direct Dialogue (with tag last): "I wake with the morning sun every day," he said.
+
+When the tag comes last, you'll need to place a comma inside the quotation marks and then finish the line normally. If the quoted text ends with a question mark or exclamation mark, the comma is not needed.
+
+In both instances, whether the tag comes first or last, the first letter of the first word in the quote should generally be capitalized. The exception would be if the quote is integrated into the sentence itself without a tag.
+
+Direct Dialogue (no tag): He said that he wakes "with the morning sun every day."
+
+Indirect Dialogue
+Sometimes, we also come across indirect dialogue. Those are instances when we're loosely reporting what someone said without providing an exact quote.
+
+Indirect Dialogue: He told me he wakes with the morning sun every day.
+
+You'll notice that no quotation marks are used, and the sentence is punctuated normally.
+
+How to Use Dialogue Tags
+When we're reading our favorite novels, sometimes there are no dialogue tags. That is, the author doesn't need to include "he said" or "she said" before or after every bit of dialogue. We might read a passage from a book that goes something like this:
+
+Maria hastily packed her bag. "I never want to see you again!" she screamed.
+
+Roberto took her by the elbow and all but crooned, "Mi amor, what can I do to make you stay?"
+
+"Nothing! You've broken my heart well and good now."
+
+"But, you know I never meant you any harm."
+
+"Get out of my way, Roberto, before I push you out that door."
+"Wait," he whispered, as she pushed past him. "At least let me give you this before you walk out of my life."
+
+Once we're into the rhythm of a scene like that, dialogue tags are no longer required. It's easy to follow the action. Part of the reason it's easy to follow is because each new speaker is given a new paragraph break. So, every time you're changing speakers in a manner that doesn't require a new dialogue tag, be sure to create a new paragraph break.
+
+Even when dialogue tags are required, there are many ways to place them into the line of text. The most basic example is:
+
+"I don't love you anymore," she said.
+
+But, sometimes, dialogue gets interrupted by the need for a tag. Here's an example of that:
+
+"I don't love you anymore," she said, hoping to cut through his heart, "but you can rest assured I'll never forget you."
+
+OR
+
+"I don't love you anymore," she said, hoping to cut through his heart. "But, you can rest assured I'll never forget you."
+
+In these instances, the author might need to detail what's going on in a character's mind. In the first example, the tag is placed in the middle of a single sentence. "I don't love you anymore, but you can rest assured I'll never forget you." In the second example, the tag is placed between two separate sentences. "I don't love you anymore. But, you can rest assured I'll never forget you." Notice in the first example that the second half of the quote does not begin with a capital letter.
+
+The writer might also need to make an important note about the scene as the dialogue is unfolding.
+
+Let's look at another example:
+
+"I don't love you anymore," she said as she tossed the drink in his face, "but you can rest assured I'll never forget you."
+
+Other Forms of Punctuation
+So, now we know that, after "he said" or "she said," we need to place a comma before opening up the quotation marks.
+
+He said, "You look lovely in that shade of green."
+
+We also know that terminal punctuation (like periods, question marks, or quotation marks) must be placed within quotation marks when closing out a sentence. Finally, if the dialogue tag is placed after the line of dialogue, a comma is required because the sentence is continuing on.
+
+"That's so kind," she said.
+
+But what about other forms of punctuation as they relate to dialogue?
+
+Ellipses
+Ellipses are a great way for writers to dramatize a scene. Let's look at an example:
+
+Clearly, he caught her off-guard. Immediately, he asked her what she was doing in this room.
+
+"I'm umm… I'm just…" she stuttered.
+
+"You're what?"
+
+"I'm just looking for Anabelle's stuffed rabbit," she concluded. "She lost it earlier this afternoon."
+
+You could probably sense the woman's panic at being caught snooping around in his room. Ellipses indicate awkward or extended pauses, building anticipation. A comma is not needed following an ellipsis.
+
+Dashes
+Ellipses create a certain sense of drama. Dashes can do the same. Typically, they're used to create a sense of urgency. Maybe one speaker is cutting off the other to get right to the point. Here's an example:
+
+"Help! I've looked everywhere for my new fountain pen and I can't find it! I think maybe Robbie-"
+
+"You think maybe Robbie, what, stole it?"
+
+"No! I didn't say that. I think maybe he-"
+
+"He what, Melissa? Get to the point!"
+
+"I think maybe he broke it and doesn't want to tell me."
+
+In a similar way, dashes can create a sense of drama, just like ellipses. But, here's the most important difference between these unique forms of punctuations: Ellipses and dashes don't require a period within the quotation marks.
+
+So, let's look at this Robbie example. You wouldn't write this:
+
+"Help! I've looked everywhere for my new fountain pen and I can't find it! I think maybe Robbie-."
+
+You don't need a period for these special marks because you're not ending the sentence. Rather, you're very deliberately expressing that the thought wasn't complete.
+
+Paragraph Blocks
+Have you ever read a novel with a long excerpt of dialogue? It might've read something like this:
+
+Joan enthusiastically exclaimed, "Oh, you simply must visit Ireland at some point in your life!
+
+"You'll find the people are genuinely nice and eager to help. Very rare is it for you to meet someone looking to cop an attitude with you.
+
+"The lush greenery is show-stopping. The land seems to just blend into the horizon.
+
+"And, where else can you go to find 10th-century ruins down the road from a brand new shopping center?"
+
+What's important to note here is that, when dialogue spills over into more than one paragraph (e.g., where a single speaker continues over two or more paragraphs), you don't need to close the quotation marks until they're finished speaking. However, each new paragraph still needs to have an opening quotation mark.
+
+Punctuation Outside Quotation Marks
+More often than not, when you see a terminal mark placed outside the closing quotation mark, it's been written in error. However, there are certain instances where it's grammatically correct. For example:
+
+Did Joseph really say, "She deserved it"?
+
+These punctuation marks are placed outside the closing quotation marks because the punctuation applies to the entire sentence. In other words, Joseph isn't the one who asked the question; the sentence itself as a whole is a question.
+
+Punctuation Perfection
+What's great about dialogue is that, once you have its punctuation down pat, you're well on your way to being a grammar pro. Dialogue is one of the trickier elements. But, the more you practice it, the more it becomes second nature, just like any other form of writing.
+
+To make sure you're in tip-top shape, be sure to review these 11 rules of grammar.

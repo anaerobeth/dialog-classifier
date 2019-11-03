@@ -1,0 +1,59 @@
+Quotation marks are used to identify words that someone has said. You’ll often find them in fiction, where they signify dialogue, the words spoken by the characters. In newspapers, journalists use quotation marks to signify that something is a direct quote from a person in the article. In academic papers, quotation marks can signify that you are quoting material that was written by someone else. Quotation marks always come in pairs; the first set opens the quote and the second set closes the quote.
+
+American vs. British Quotation Marks
+American English and British English differ in the way they use quotation marks. American English uses double quotation marks (" ") for quotes and reserves single quotation marks (‘ ’) for quotes within quotes. In British English, the convention is the opposite. Another difference is that in American English, periods and commas go before closing quotation marks. In British English, they go after the closing quotation mark. The guidelines below apply to American English.
+
+Here’s a tip: Want to make sure your writing always looks great? Grammarly can save you from misspellings, grammatical and punctuation mistakes, and other writing issues on all your favorite websites.
+Your writing, at its best.
+Be the best writer in the office.
+GET GRAMMARLY
+Dialogue
+When writers become confused about quotation marks, it usually has to do with where to put other nearby punctuation. Below is an example of a conversation between two characters, with their dialogue correctly punctuated.
+
+Martin said, "I’m going over to Jennifer’s house for a few hours."
+
+"You can’t be serious!" cried Fauntleroy.
+
+"Oh, but I am," Martin replied.
+
+"How will you get there?" Fauntleroy asked.
+
+"I thought I’d take the bus."
+
+"And," Fauntleroy continued, "exactly how long is ‘a few hours’?"
+
+"Probably two or three."
+
+"Well . . . fine. Tell Jennifer I said hello."
+
+In the first sentence, Martin makes a declarative statement that ends in a period. The period goes inside the quotation marks. Treat anything within quotation marks as separate from the rest of the sentence you’ve written, and make sure it has its own correct punctuation. If the quote is a full sentence, it must begin with a capital letter, even though it is within the larger structure of another sentence.
+
+The second sentence begins a new paragraph because a different character is speaking. Fauntleroy responds with an outburst, ending with an exclamation mark. When an exclamation mark belongs to the sentence inside the quotation marks, it goes before the closing quotation mark.
+
+In the third sentence, Martin is making another declarative statement. This time, however, the statement is followed by the dialogue tag Martin replied. In dialogue, when a sentence that would normally end in a period is followed by a dialogue tag, the period becomes a comma. It should go before the closing quotation mark.
+
+In the fourth sentence, Fauntleroy’s query ends with a question mark. As with exclamation marks, a question mark goes before the closing quotation mark when it belongs to the sentence inside the quotation marks.
+
+In the fifth sentence, Martin is speaking, but there is no dialogue tag. Writers often omit dialogue tags when the context of a conversation makes it clear who the speaker is.
+
+In the sixth sentence, the dialogue tag Fauntleroy continued appears in the middle of Fauntleroy’s sentence. Notice the placement of the commas after And and continued; commas go before quotation marks. This sentence also contains a quote within a quote, which is enclosed with single quotation marks. Fauntleroy is repeating Martin’s words a few hours.
+
+The final two sentences of the conversation also omit the dialogue tags, because it’s clear which character is speaking in both instances.
+
+Non-Dialogue Quotations
+In nonfiction or academic contexts, you may want to quote someone without styling it as dialogue. The same rules for where to put other punctuation in relation to the quotation marks apply. But you should also take care to construct your sentence so that the quoted words fit within it grammatically.
+
+The mayor said his two golden retrievers were "the best dogs in the world" and added that he was not a cat person.
+The mayor said his two golden retrievers were "the best dogs in the world. I’m not a cat person."
+In the second example, the sentence begins in the third person and past tense but abruptly switches to the first person and present tense halfway through the quote. The result is jarring for the reader, and sometimes hard to follow.
+
+Scare Quotes
+Occasionally, writers enclose certain terms they wish to distance themselves from in quotation marks. Quotation marks used this way are commonly called scare quotes or shudder quotes. It’s a way of implying that you’re using a term in an unusual way or that you don’t necessarily approve of it. For example:
+
+Silicon Valley has fully embraced the "sharing economy."
+The scare quotes around sharing economy suggest that it’s not a fully accepted term. Perhaps the writer feels that it’s jargon or just doesn’t like it. But, unless you’re writing for an audience who is totally unfamiliar with the subject, it’s better to leave the quotation marks out and instead provide enough context to make the meaning of the term clear. Overusing scare quotes will quickly annoy readers, so reserve them for terms that truly require them:
+
+For too many people, "computer security" is an oxymoron.
+In the sentence above, the scare quotes are needed to indicate that the writer is not talking about computer security in general, but rather the term itself.
+
+Because scare quotes usually suggest a sniff of disapproval or sarcasm from the writer, you should never use them purely for emphasis or decoration. A sign outside a restaurant that proclaims Best "Flapjacks" in Town will make people stop and wonder why the flapjacks need the scare quotes. Are they really flapjacks? Or are they some kind of inferior imitation? Likewise, if you write someone a note that says I "love" you, the recipient will probably assume that you meant the exact opposite! 

@@ -1,0 +1,10 @@
+Dialog Classifier
+
+Goals: Collect examples of dialog vs regular sentences to create a labeled dataset and train a classifier to identify whether a sentence is part of a dialog.
+
+Sample dialog sources:
+https://hollylisle.com/dialogue-examples/
+https://www.tolearnenglish.com/english_lessons/sample-dialogue
+https://www.quora.com/What-are-some-examples-of-dialogue
+https://goodreadingfor.blogspot.com/2013/10/a-dialogue-between-teacher-and-student.html
+https://grammar.yourdictionary.com/style-and-usage/words-to-thank-volunteers.html
