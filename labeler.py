@@ -2,29 +2,28 @@ import glob
 import re
 import csv
 import logging
+import threading
+from multiprocessing import Process, Queue
 
 
 class AutoLabeler(object):
-    """Assigns labels to sentences in text files
+    """Assigns labels to sentences in a text file
 
     1 for dialog sentences, 0 for regular sentences
 
-    :param text_files: list of source files
-    :param output: name of output file
+    :param text_file: source text file
     """
 
-    def __init__(self, text_files, output):
-        self.text_files = text_files
-        self.output = output
+    def __init__(self, text_file):
+        self.text_file = text_file
         self.data = []
 
     def run(self):
-        for text_file in self.text_files:
-            with open(text_file, 'r') as f:
-                logging.info('Reading', text_file)
-                for line in f:
-                    self.assign_label(line)
-        self.write_to_csv()
+        with open(text_file, 'r') as f:
+            logging.info('Reading', text_file)
+            for line in f:
+                self.assign_label(line)
+        return self.data
 
     def assign_label(self, line):
         match = re.search('"(.*)"', line)
@@ -42,14 +41,40 @@ class AutoLabeler(object):
             if len(line) > 2:
                 self.data.append([line.rstrip(), 0])
 
-    def write_to_csv(self):
-        with open(self.output, 'w') as f:
-            writer = csv.writer(f)
-            writer.writerows(self.data)
-            logging.info('Writing data to', self.output)
+
+def ingest(queue, text_file):
+    data = AutoLabeler(text_file).run()
+    queue.put(data)
 
 
 if __name__ == '__main__':
+    queue = Queue()
     text_files = glob.glob("*.txt")
-    labeler = AutoLabeler(text_files, 'data.csv')
-    labeler.run()
+    output = 'data.csv'
+    procs = []
+    results = []
+
+    try:
+        for text_file in text_files:
+            proc = Process(target=ingest, args=(queue, text_file))
+            procs.append(proc)
+            proc.start()
+
+        for proc in procs:
+            proc.join()
+
+        while not queue.empty():
+            results.append(queue.get())
+
+        queue.close()
+        queue.join_thread()
+
+        with open(output, 'w') as f:
+            flat_results = [item for sublist in results for item in sublist]
+            writer = csv.writer(f)
+            for line in flat_results:
+                writer.writerow(line)
+            logging.info('Writing data to', output)
+    except:
+        print('Ingestion Failed') 
+
