@@ -2,7 +2,6 @@ import glob
 import re
 import csv
 import logging
-import threading
 from multiprocessing import Process, Queue
 
 
@@ -20,7 +19,7 @@ class AutoLabeler(object):
 
     def run(self):
         with open(text_file, 'r') as f:
-            logging.info('Reading', text_file)
+            logging.info('Ingesting', text_file)
             for line in f:
                 self.assign_label(line)
         return self.data
